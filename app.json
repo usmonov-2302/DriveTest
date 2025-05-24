@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "DriveTest",
+    "slug": "DriveTest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/DriveTest.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "441f2009-cca9-448a-a60a-8301c656f278"
+      }
+    }
+  }
+}
