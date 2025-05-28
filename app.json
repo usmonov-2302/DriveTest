@@ -22,6 +22,9 @@
       "eas": {
         "projectId": "441f2009-cca9-448a-a60a-8301c656f278"
       }
+    },
+    "android": {
+      "package": "com.usmonov_2302.DriveTest"
     }
   }
 }
